@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *A betty documentation style comment
+ * main - Short description
  */
 int main(void)
 {
