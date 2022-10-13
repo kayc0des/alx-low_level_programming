@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  *A betty documentation style comment
  */
 int main(void)
