@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Short description
- * description - This function prints a text using printf
- * return - return value
+ * main - Entry point
+ *
+ * Return - always 0
  */
 int main(void)
 {
