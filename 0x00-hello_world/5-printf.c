@@ -2,6 +2,7 @@
 /**
  * main - Short description
  * description - This function prints a text using printf
+ * return - return value
  */
 int main(void)
 {
