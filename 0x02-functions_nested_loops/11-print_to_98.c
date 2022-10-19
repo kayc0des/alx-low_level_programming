@@ -5,6 +5,7 @@
 /**
  * print_to_98 - entry point
  *
+ * @n: interger to be passed to function
  * Return: return void
 */
 void print_to_98(int n)
