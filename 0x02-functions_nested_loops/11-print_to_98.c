@@ -6,7 +6,7 @@
  * print_to_98 - entry point
  *
  * Return: return void
- * */
+*/
 void print_to_98(int n)
 {
 	int i;
