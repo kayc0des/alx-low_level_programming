@@ -104,4 +104,8 @@ void print_numbers(void);
  * print_most_numbers - print numbers from 0 to 9 but not 2 and 4
  */
 void print_most_numbers(void);
+/**
+ * more_numbers - print more numbers on multiple lines
+ */
+void more_numbers(void);
 #endif
