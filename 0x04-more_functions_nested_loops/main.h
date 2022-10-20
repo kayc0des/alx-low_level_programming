@@ -89,4 +89,11 @@ int _isupper(int c);
  * Return: 1 0r 0
  */
 int _isdigit(int c);
+/**
+ * mul - Multiply two integers
+ * @int a: First integer
+ * @int b: seconf integer
+ * Return: result
+ */
+int mul(int a, int b);
 #endif
