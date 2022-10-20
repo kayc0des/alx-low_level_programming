@@ -83,4 +83,10 @@ void print_times_table(int n);
  * Return: 1 0r 0
  */
 int _isupper(int c);
+/**
+ * _isdigit - checks for a digit
+ * @c: variable to use
+ * Return: 1 0r 0
+ */
+int _isdigit(int c);
 #endif
