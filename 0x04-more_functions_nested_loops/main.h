@@ -96,4 +96,8 @@ int _isdigit(int c);
  * Return: result
  */
 int mul(int a, int b);
+/**
+ * print_numbers - print numbers from 0 to 9
+ */
+void print_numbers(void);
 #endif
