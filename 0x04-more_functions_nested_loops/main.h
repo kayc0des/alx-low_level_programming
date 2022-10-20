@@ -108,4 +108,9 @@ void print_most_numbers(void);
  * more_numbers - print more numbers on multiple lines
  */
 void more_numbers(void);
+/**
+ * print_line - prints a line in the terminal
+ * @n: number of times character is printe
+ */
+void print_line(int n);
 #endif
